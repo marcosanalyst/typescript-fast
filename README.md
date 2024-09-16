@@ -1,2 +1,2 @@
-# typescript-fast
-Fundamentos básicos e mais utilizados no TypeScript
+# Acesse a branch Master
+
